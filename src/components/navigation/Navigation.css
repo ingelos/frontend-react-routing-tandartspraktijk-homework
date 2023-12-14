@@ -30,3 +30,11 @@ ul {
     justify-content: space-between;
     align-items: center;
 }
+
+.active-menu-link {
+    text-decoration: underline;
+}
+
+.default-menu-link {
+    text-decoration: none;
+}
